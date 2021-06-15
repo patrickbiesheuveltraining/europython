@@ -1,0 +1,9 @@
+test@test@test
+hello@bye.com
+hello+bye@hotmail.co.uk
+patrick@trainer.masterit.com
+patrick@master-it.nl
+patrick@hotmail
+a.b.c.d@hotmail.com
+a.b.c.d.@hotmail.com
+abc@@hotmail.com
